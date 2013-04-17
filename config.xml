@@ -1,0 +1,24 @@
+<?xml version   ="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "br.com.antoniodesouza.sqlite"
+    versioncode = "1"
+    version     = "1.0.0">
+    
+    <name>SQLite</name>
+    
+    <content src="index.html"/>
+    
+    <description>
+        Aplicação Teste de SQLite
+    </description>
+    
+    <author href="http://antoniodesouza.com.br"  email="contato@antoniodesouza.com.br">
+        Antonio de Souza
+    </author>
+        
+    <preference name="phonegap-version" value="2.0.0" />
+    <preference name="orientation" value="portrait" />
+	
+</widget>
+
